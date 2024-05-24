@@ -49,3 +49,9 @@ NOTE : **TIME TAKEN IS ALWAYS DEPENDED ON THE  HEIGHT OF THE TREE**.
 
 NOTE : **THE  HEIGHT OF THE TREE MIN IS LOG N AND MAX IS N** 
 
+Sorting
+Algorithm	                                  Complexity	                                       Max value of N possible
+Bubble sort, insertion sort	                O(n^2)
+Merge sort                                  O(NlogN)
+
+
